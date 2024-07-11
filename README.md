@@ -1,5 +1,5 @@
 # ✌️About Me
-CS @ Stanford, currently exploring Product Management.
+CS @ Stanford, currently working in Product Management and traveling in Singapore!
 
 
 ## 😁Socials
