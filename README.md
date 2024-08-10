@@ -1,5 +1,6 @@
 # ✌️About Me
 CS @ Stanford, currently working in Product Management and traveling in Singapore!
+[!shanemion.me]
 
 
 ## 😁Socials
