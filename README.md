@@ -1,6 +1,5 @@
 # ✌️About Me
-CS @ Stanford, currently working in Product Management and traveling in Singapore!
-
+CS AI @ Stanford. SWE @ VALUENEX.
 
 shanemion.me
 
